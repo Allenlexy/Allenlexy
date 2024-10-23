@@ -25,19 +25,15 @@ A **React.js project** that uses the **Edamam Recipe API** for fetching and disp
 ### 🖥️ [Blogging Platform](https://github.com/Allenlexy/ScribbledDiaries)
 A **React-based blogging platform** with a modern UI, powered by Graph CMS, featuring an admin dashboard for publishing and managing blogs.
 
+ ##💡 **Notable Achievements**
+🏆 Department Champion in Hackfest 2024 for building an Information Management System.
+💻 Built a complete ERP and Learning System during my time at Bitsolve for a college.
+🎖️ Contributor to the growth of the MCA Developer Community and organizer of multiple college tech events.
+⚙️ Favorite Tools & Technologies
+
 ## ⚽ Fun Fact
 
 When I'm not coding, I love playing and watching football ⚽ and trekking through nature 🏞️!
-
-## 📊 GitHub Stats
-
-![Allen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allenlexy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allenlexy&layout=compact&theme=radical)
-
----
-
-Feel free to tweak it as you like!
 
 <!--
 **Allenlexy/Allenlexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
