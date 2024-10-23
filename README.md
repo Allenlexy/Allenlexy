@@ -1,7 +1,3 @@
-Here’s the refined README with proper formatting for the "Notable Achievements" and "Favorite Tools & Technologies" sections:
-
----
-
 # Hi, I'm Allen! 👋 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-l-koickal)  
