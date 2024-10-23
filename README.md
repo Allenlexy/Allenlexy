@@ -41,15 +41,13 @@ A **React-based blogging platform** with a modern UI, powered by Graph CMS, feat
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4169E1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## ⚽ Fun Fact
 
 When I'm not coding, I love playing and watching football ⚽ and trekking through nature 🏞️!
 
----
-
-This version integrates your achievements and favorite technologies seamlessly into the README. Feel free to make any further adjustments!
 
 <!--
 **Allenlexy/Allenlexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
