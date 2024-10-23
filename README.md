@@ -1,7 +1,7 @@
 # Hi, I'm Allen! 👋 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-l-koickal)  
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/github/followers/Allenlexy?label=Follow&style=social)](https://github.com/Allenlexy)
 
 ## About Me
 
